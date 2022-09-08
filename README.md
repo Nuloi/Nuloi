@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"><br>
-  나는 생각이없다<br>
+  I'm Coding Monkey<br>
 </p><br>
 
 <h3 align="center">- Tech Stack -</h3>
