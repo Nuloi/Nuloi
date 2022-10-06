@@ -26,7 +26,7 @@
 <br>
 <div align = center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekgus0813)](https://solved.ac/boj=ekgus0813) <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekgus0813)](https://solved.ac/profile/ekgus0813) <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuloi&show_icons=true&theme=default_repocard)
 
 </div>
