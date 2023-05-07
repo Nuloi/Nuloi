@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"><br>
-  I am  coding monkey<br>
+  I am a coding monkey<br>
 </p><br>
 
 <h3 align="center">- Tech Stack -</h3>
