@@ -4,7 +4,7 @@
 
 <p align="center"><br>
   I am a coding monkey<br>
-  공부좀 더할껄<br>
+  2023년 나의 대학생활의 최후의 몸부림<br>
 </p><br>
 
 <h3 align="center">- Tech Stack -</h3>
