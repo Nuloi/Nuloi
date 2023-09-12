@@ -4,6 +4,7 @@
 
 <p align="center"><br>
   I am a coding monkey<br>
+  공부좀 더할껄<br>
 </p><br>
 
 <h3 align="center">- Tech Stack -</h3>
