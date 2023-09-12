@@ -16,14 +16,22 @@
 </p>
 <p align="center"> Used at least once</p>
   <p align ="center">
-  <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>&nbsp;
-  <img src ="https://img.shields.io/badge/Premiere%20Pro-9933FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 </p>
+
+<p align="center">another</p>
+<p align="center">
+  <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>&nbsp;
+  <img src ="https://img.shields.io/badge/Premiere%20Pro-9933FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>&nbsp;
+</p>
+    
 <p align="center"> workshop experience</p>
   <p align ="center">
 <br>
